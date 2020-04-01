@@ -10,7 +10,7 @@ public class Ex1001 {
 
 	System.out.println("Digite o segundo valor: ");
 	int b = scan.nextInt();
-
+	
 	System.out.println("Resultado = " + (a+b)); 
     }
     
