@@ -6,7 +6,7 @@ public class Ex1002 {
 		
 		System.out.print("Digite o raio do circulo: ");
 		double raio = scan.nextInt();
-		
+			
 		System.out.print("Area do circulo = " + (3.14159 * (raio*raio)));
 	}
 }
