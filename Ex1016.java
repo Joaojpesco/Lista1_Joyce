@@ -6,7 +6,6 @@ public class Ex1016 {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Informe a distancia: ");
 		int a = scan.nextInt();
-		
 		System.out.printf("%d minutos",a*2);
 	}
 
