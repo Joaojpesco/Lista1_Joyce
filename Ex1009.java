@@ -3,11 +3,10 @@ import java.util.Scanner;
 public class Ex1009 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);	
-		
 		System.out.print("Digite o seu nome: ");
 		String nome = scan.next();
 
-		System.out.print("Digite o sal·rio fixo: ");
+		System.out.print("Digite o sal√°rio fixo: ");
 		double salario = scan.nextFloat();
 
 		System.out.print("Digite a quantidade de vendas feitas no mes: ");
