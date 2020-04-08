@@ -13,5 +13,5 @@ public class Ex1003 {
 		int soma = (a+b);
 		
 		System.out.print("Resultado = " + soma);
-	}
+	} 
 }
