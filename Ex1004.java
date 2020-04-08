@@ -12,5 +12,4 @@ public class Ex1004 {
 
 		System.out.printf("Resultado do produto = " + (a*b));
 	}
-
 }
