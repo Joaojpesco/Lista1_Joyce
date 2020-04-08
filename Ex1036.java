@@ -5,7 +5,6 @@ public class Ex1036 {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Digite o valor de A");
 		double a = scan.nextDouble();
-
 		System.out.print("Digite o valor de B");
 		double b = scan.nextDouble();
 
