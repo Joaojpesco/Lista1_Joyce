@@ -44,5 +44,4 @@ public class Ex1064 {
 		System.out.print("Numeros positivos: " + x);
 		System.out.printf("\nMedia: %.2f",media/x);
 	}
-
 }
