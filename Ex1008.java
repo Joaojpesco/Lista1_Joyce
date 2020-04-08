@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Ex1008 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		
 		System.out.print("Numero do trabalhador: ");
 		int num = scan.nextInt();
 	
