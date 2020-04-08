@@ -5,8 +5,7 @@ public class Ex1017 {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("tempo gasto na viagem: ");
 		double tempo = scan.nextDouble();
-
-		System.out.print("velocidade média: ");
+		System.out.print("velocidade mÃ©dia: ");
 		double velocidade = scan.nextDouble();
 
 		System.out.printf("Litros necessarios: %.3f",(velocidade*tempo)/12); 
