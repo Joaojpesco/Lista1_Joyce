@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class Ex1015 {
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
-			
+		Scanner scan = new Scanner(System.in);	
 		System.out.print("Informe o valor de x: ");
 		double x = scan.nextDouble();
 
@@ -21,7 +20,7 @@ public class Ex1015 {
 		
 		double resultado = Math.sqrt(Math.pow(xz - x,2) + Math.pow(yz - y,2));
 
-		System.out.printf("A distancia entre os pontos é: %.4f",resultado);
+		System.out.printf("A distancia entre os pontos Ã©: %.4f",resultado);
 	}
 
 }
