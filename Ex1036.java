@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Ex1036 {
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
-		
 		System.out.print("Digite o valor de A");
 		double a = scan.nextDouble();
 
