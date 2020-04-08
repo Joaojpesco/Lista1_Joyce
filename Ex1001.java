@@ -13,5 +13,4 @@ public class Ex1001 {
 	
 	System.out.println("Resultado = " + (a+b)); 
     }
-    
 }
