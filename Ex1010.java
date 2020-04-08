@@ -4,7 +4,7 @@ public class Ex1010 {
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
 
-		System.out.print("Informe o código do objeto: ");
+		System.out.print("Informe o cÃ³digo do objeto: ");
 		int c1 = scan.nextInt();
 
 		System.out.print("Informe a quantidade de objetos: ");
@@ -13,7 +13,7 @@ public class Ex1010 {
 		System.out.print("Informe o valor do objeto: ");
 		double v1 = scan.nextDouble();
 
-		System.out.print("Informe o código do objeto 2: ");
+		System.out.print("Informe o cÃ³digo do objeto 2: ");
 		int c2 = scan.nextInt();
 
 		System.out.print("Informe a quantidade de objetos: ");
@@ -26,5 +26,4 @@ public class Ex1010 {
 
 		System.out.printf("Valor a pagar = %.2f",resultado);
 	}
-
 }
