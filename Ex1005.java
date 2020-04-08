@@ -13,7 +13,6 @@ public class Ex1005 {
 		double n2 = scan.nextFloat();
 		
 		double media = (((n1*3.5) + (n2*7.5))/11);
-
-		System.out.printf("Média = " + saida.format(media));
+		System.out.printf("MÃ©dia = " + saida.format(media));
 	}
 }
