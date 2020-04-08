@@ -5,7 +5,6 @@ public class Ex1035 {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Digite o valor de A ");
 		int a = scan.nextInt();
-	
 		System.out.print("Digite o valor de B ");
 		int b = scan.nextInt();
 
@@ -18,7 +17,7 @@ public class Ex1035 {
 		if(b>c && d>a && (c+d > a+b) && (c>0 && d>0) && (a%2==0)){
 			System.out.print("Valores aceitos");
 		}else{
-			System.out.print("Valores n„o aceitos");
+			System.out.print("Valores n√£o aceitos");
 		}
 	}
 }
